@@ -8,10 +8,10 @@ Soy Bárbara, estudiante de 4° año de Ingeniería en Informática en DuocUC se
 
 Me motiva mucho seguir creciendo, por eso estoy constantemente buscando nuevas certificaciones y desafíos que alimenten mi portafolio y, sobre todo, que me enseñen algo nuevo. Acá vas a encontrar ese proceso en construcción 🌱
 
-- 🌍 Vivo en Puerto Montt, Chile
+- 🌍 Vivo en Puerto Montt, Chile.
 - ✉️ Puedes contactarme en [barbarapalmamena@gmail.com](mailto:barbarapalmamena@gmail.com)
-- 🧠 Actualmente aprendiendo sobre ciberseguridad y hacking ético en [TryHackMe](https://tryhackme.com/)
-- 🚩 He participado en el CTF de la **FIDAE** — mi primera experiencia en competencia real y definitivamente no la última
+- 🧠 Actualmente aprendiendo sobre ciberseguridad y hacking ético.
+- 🚩 He participado en el CTF de la **FIDAE** — mi primera experiencia en competencia real y definitivamente no la última.
 
 ---
 
@@ -100,20 +100,20 @@ A principios de 2026 me propuse certificarme en varias áreas de forma intensiva
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" title="GitHub" />
     </picture>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bárbara-javiera-palma-mena-24351026b/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" title="LinkedIn" />
     </picture>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://tryhackme.com/p/Barbara.J.Palma" target="_blank" rel="noreferrer">
-    <img src="https://assets.tryhackme.com/img/favicon.png" width="32" height="32" alt="TryHackMe" title="TryHackMe" />
+    <img src="https://assets.tryhackme.com/img/favicon.png" width="36" height="36" alt="TryHackMe" title="TryHackMe" />
   </a>
 </p>
 
