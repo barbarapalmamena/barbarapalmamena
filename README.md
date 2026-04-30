@@ -11,7 +11,7 @@ Me motiva mucho seguir creciendo, por eso estoy constantemente buscando nuevas c
 - 🌍 Vivo en Puerto Montt, Chile
 - ✉️ Puedes contactarme en [barbarapalmamena@gmail.com](mailto:barbarapalmamena@gmail.com)
 - 🧠 Actualmente aprendiendo sobre ciberseguridad y hacking ético 
-- 🚩 He participado en el CTF de la **FIDAE** — mi primera experiencia en competencia real y definitivamente no la última
+- 🚩 He participado en el CTF de la **FIDAE 2026** — mi primera experiencia en competencia real y definitivamente no la última
 
 ---
 
