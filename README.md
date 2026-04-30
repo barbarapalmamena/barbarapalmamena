@@ -121,8 +121,6 @@ A principios de 2026 me propuse certificarme en varias áreas de forma intensiva
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=barbarapalmamena&label=Visitas+al+perfil&color=00b4d8&style=flat" />
-</p>
+
 
 <p align="center"><sub>Gracias por pasarte por aquí ✨</sub></p>
