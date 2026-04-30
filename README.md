@@ -95,9 +95,9 @@ A principios de 2026 me propuse certificarme en varias áreas de forma intensiva
 
 ## 🌐 Redes sociales
 
-| [![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/barbarapalmamena) | [![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/bárbara-javiera-palma-mena-24351026b/) | [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Barbara.J.Palma) |
-|:---:|:---:|:---:|
-| GitHub | LinkedIn | TryHackMe |
+ [![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/bárbara-javiera-palma-mena-24351026b/) | [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Barbara.J.Palma) |
+|--:|:---:|
+ LinkedIn | TryHackMe |
 
 ---
 
