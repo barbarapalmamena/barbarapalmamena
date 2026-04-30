@@ -9,11 +9,7 @@
 ![](https://streak-stats.demolab.com/?user=barbarapalmamena&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=barbarapalmamena&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=barbarapalmamena&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=barbarapalmamena&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=barbarapalmamena&icon=0&color=0)](https://visitcount.itsvg.in)
