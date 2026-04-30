@@ -10,7 +10,7 @@ Me motiva mucho seguir creciendo, por eso estoy constantemente buscando nuevas c
 
 - 🌍 Vivo en Puerto Montt, Chile
 - ✉️ Puedes contactarme en [barbarapalmamena@gmail.com](mailto:barbarapalmamena@gmail.com)
-- 🧠 Actualmente aprendiendo sobre ciberseguridad y hacking ético
+- 🧠 Actualmente aprendiendo sobre ciberseguridad y hacking ético 
 - 🚩 He participado en el CTF de la **FIDAE** — mi primera experiencia en competencia real y definitivamente no la última
 
 ---
@@ -95,7 +95,7 @@ A principios de 2026 me propuse certificarme en varias áreas de forma intensiva
 
 ## 🌐 Redes sociales
 
-| [![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/barbarapalmamena) | [![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/bárbara-javiera-palma-mena-24351026b/) | [![TryHackMe](https://assets.tryhackme.com/img/favicon.png)](https://tryhackme.com/p/Barbara.J.Palma) |
+| [![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/barbarapalmamena) | [![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/bárbara-javiera-palma-mena-24351026b/) | [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Barbara.J.Palma) |
 |:---:|:---:|:---:|
 | GitHub | LinkedIn | TryHackMe |
 
