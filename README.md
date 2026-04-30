@@ -10,7 +10,8 @@ Me motiva mucho seguir creciendo, por eso estoy constantemente buscando nuevas c
 
 - 🌍 Vivo en Puerto Montt, Chile
 - ✉️ Puedes contactarme en [barbarapalmamena@gmail.com](mailto:barbarapalmamena@gmail.com)
-- 🧠 Actualmente aprendiendo sobre ciberseguridad y hacking ético
+- 🧠 Actualmente aprendiendo sobre ciberseguridad y hacking ético en [TryHackMe](https://tryhackme.com/)
+- 🚩 He participado en el CTF de la **FIDAE** — mi primera experiencia en competencia real y definitivamente no la última
 
 ---
 
@@ -121,6 +122,8 @@ A principios de 2026 me propuse certificarme en varias áreas de forma intensiva
 
 ---
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=barbarapalmamena&label=Visitas+al+perfil&color=00b4d8&style=flat" />
+</p>
 
 <p align="center"><sub>Gracias por pasarte por aquí ✨</sub></p>
