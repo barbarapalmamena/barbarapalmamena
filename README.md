@@ -102,6 +102,10 @@ A principios de 2026 me propuse certificarme en varias áreas de forma intensiva
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
     </picture>
   </a>
+  &nbsp;
+  <a href="https://tryhackme.com/p/Barbara.J.Palma" target="_blank" rel="noreferrer">
+    <img src="https://assets.tryhackme.com/img/favicon.png" width="32" height="32" alt="TryHackMe" title="TryHackMe" />
+  </a>
 </p>
 
 ---
